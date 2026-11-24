@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0",
-  "apkUrl": "https://github.com/TU_USUARIO/RutingCash/releases/download/v1.1/app-release.apk",
+  "versionCode": 2,
+  "versionName": "2.1",
+  "apkUrl": "https://github.com/Mayllong/RutingCash/releases/download/V1/RutinCashv2.apk",
   "releaseNotes": "Mejoras en la precisión del GPS y corrección de errores."
 }
